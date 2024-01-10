@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "comments-footer"
+  ],
+  "pluginsConfig": {
+    "comments-footer": {
+      "type": "github",
+      "repo": "kangharyeom/kangharyeom.github.io",
+      "copyright": "Copyright"
+    }
+  }
+}
