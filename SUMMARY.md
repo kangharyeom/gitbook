@@ -12,10 +12,10 @@
 * [Article Links](article/link.md)
 
 ## Work Experience
-* [실무 경험](study/work/README.md)
+* [Work Experience](work/README.md)
 
 ## Study
-* [Legacy Study](study/legacy/README.md)
+* [Study](study/legacy/README.md)
   * [Language](study/legacy/language/README.md)
     * [Java](study/legacy/language/java/README.md)
         * [자바란 무엇일까?](study/legacy/language/java/javaMain.md)
