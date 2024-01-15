@@ -14,6 +14,10 @@
 ## Work Experience
 * [Work Experience](work/README.md)
 
+## Algorithm
+* [Algorithm](coding/algorithm/README.md)
+* [Coding Test](coding/question/README.md)
+
 ## Study
 * [Study](study/legacy/README.md)
   * [Language](study/legacy/language/README.md)
