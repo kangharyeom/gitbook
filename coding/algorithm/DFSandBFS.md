@@ -41,7 +41,7 @@
 
 
 ## 깊이 우선 탐색 (DFS) 알고리즘
-### 재귀
+### 재귀를 활용한 DFS 알고리즘
 ```java
 static Stack<Integer> stack = new Stack<>();
 static StringBuilder sb = new StringBuilder();
@@ -57,7 +57,7 @@ static void dfs(int v) {
     }
 }
 ```
-### 스택
+### 스택을 활용한 DFS 알고리즘
 ```java
 public static String dfs(int v, boolean node[][]) {
         StringBuilder sb = new StringBuilder();
@@ -80,7 +80,7 @@ public static String dfs(int v, boolean node[][]) {
 ```
 
 ## 너비 우선 탐색 (BFS) 알고리즘
-### 큐
+### 큐를 활용한 BFS 알고리즘
 ```java
 static boolean[] visit;
 //연결 리스트, 행렬 그래프 중 선택
