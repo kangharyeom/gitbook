@@ -5,6 +5,7 @@
 
 ## 깊이 우선 탐색 (DFS, Depth-First Search)
 ![DFS](../../assets/Depth-First-Search.gif)
+
 루트 노드에서 시작해서 다음 분기(branch)로 넘어가기 전에 해당 분기를 완벽하게 탐색하는 방식을 말합니다.
 
 ### DFS의 특징
@@ -14,6 +15,7 @@
 
 ## 너비 우선 탐색 (BFS, Breadth-First Search)
 ![BFS](../../assets/Breadth-First-Search-Algorithm.gif)
+
 루트 노드에서 시작해서 인접한 노드를 먼저 탐색하는 방법입니다.
 시작 정점애서 가까운 정점을 먼저 방문하고 멀리 있는 정점을 나중에 방문하는 순회 방법입니다.
 
