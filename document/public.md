@@ -30,16 +30,21 @@
 
 ## Database
 
-### Redis
 
 {% tabs %}
 {% tab title="First Tab" %}
 
 {% endtab %}
 
+### Redis
+
 {% tab title="Redis" %}
 {% embed url="https://redis.io/docs/about/" %}
 {% endtab %}
+{% endtabs %}
+
+
+### MySQL
 
 {% tab title="MySQL" %}
 {% embed url="https://dev.mysql.com/doc/" %}
@@ -80,6 +85,7 @@
 
 {% endtab %}
 
+### Apache POI
 {% tab title="Apache POI" %}
 {% embed url="https://poi.apache.org/components/index.html" %}
 {% endtab %}
