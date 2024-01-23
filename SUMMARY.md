@@ -51,5 +51,5 @@
 [//]: # (    * [Redis]&#40;study/legacy/cs/README.md&#41;)
 [//]: # (      * [Redis란 무엇일까?]&#40;study/legacy/cs/csMain.md&#41;)
 
-## 공식문서 모음
-* [공식 문서](document/public.md)
+## Public Documents
+* [공식 문서 모음](document/public.md)
