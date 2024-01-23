@@ -4,8 +4,12 @@
 
 ## Project
 * [Project](project/README.md)
-  * [Whistle](project/whistle/README.md)
-    * [Whistle을 소개합니다!](project/whistle/whistleIntroduction.md)
+  * [Solo](project/solo/README.md)
+    * [Whistle](project/solo/whistle/README.md)
+      * [Whistle을 소개합니다!](project/solo/whistle/whistleIntroduction.md)
+  * [Company](project/company/README.md)
+    * [게시판 과제](project/company/board/README.md)
+      * [프로젝트 소개](project/company/board/boardOutLine.md)
 
 ## Article
 * [Article Links](article/link.md)
@@ -25,7 +29,7 @@
 [//]: # (* [Work Experience]&#40;work/README.md&#41;)
 
 
-[//]: # (## Study)
+## Study
 [//]: # (* [Study]&#40;study/legacy/README.md&#41;)
 [//]: # (  * [Language]&#40;study/legacy/language/README.md&#41;)
 [//]: # (    * [Java]&#40;study/legacy/language/java/README.md&#41;)
@@ -46,3 +50,6 @@
 [//]: # (  * [Computer Science]&#40;study/legacy/cs/README.md&#41;)
 [//]: # (    * [Redis]&#40;study/legacy/cs/README.md&#41;)
 [//]: # (      * [Redis란 무엇일까?]&#40;study/legacy/cs/csMain.md&#41;)
+
+## 공식문서 모음
+*[공식 문서](document/public.md)
