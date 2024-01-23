@@ -30,13 +30,12 @@
 
 ## Database
 
+### Redis
 
 {% tabs %}
 {% tab title="First Tab" %}
 
 {% endtab %}
-
-### Redis
 
 {% tab title="Redis" %}
 {% embed url="https://redis.io/docs/about/" %}
@@ -46,6 +45,11 @@
 
 ### MySQL
 
+{% tabs %}
+{% tab title="Second Tab" %}
+
+{% endtab %}
+
 {% tab title="MySQL" %}
 {% embed url="https://dev.mysql.com/doc/" %}
 {% endtab %}
@@ -54,7 +58,7 @@
 ### Hibernate
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Third Tab" %}
 
 {% endtab %}
 
@@ -80,12 +84,12 @@
 
 ## ETC
 
+### Apache POI
 {% tabs %}
 {% tab title="First Tab" %}
 
 {% endtab %}
 
-### Apache POI
 {% tab title="Apache POI" %}
 {% embed url="https://poi.apache.org/components/index.html" %}
 {% endtab %}
