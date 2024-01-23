@@ -44,6 +44,7 @@
 {% tab title="MySQL" %}
 {% embed url="https://dev.mysql.com/doc/" %}
 {% endtab %}
+{% endtabs %}
 
 ### Hibernate
 
@@ -82,3 +83,4 @@
 {% tab title="Apache POI" %}
 {% embed url="https://poi.apache.org/components/index.html" %}
 {% endtab %}
+{% endtabs %}
