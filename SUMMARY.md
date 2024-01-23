@@ -52,4 +52,4 @@
 [//]: # (      * [Redis란 무엇일까?]&#40;study/legacy/cs/csMain.md&#41;)
 
 ## 공식문서 모음
-*[공식 문서](document/public.md)
+* [공식 문서](document/public.md)
