@@ -54,4 +54,5 @@
 [//]: # (      * [Redis란 무엇일까?]&#40;study/legacy/cs/csMain.md&#41;)
 
 ## Public Documents
-* [공식 문서 모음](document/public.md)
+* [공식 문서 모음](document/public/public.md)
+* [Open API 모음](document/openapi/openapi.md)
