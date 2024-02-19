@@ -8,6 +8,6 @@
 {% endtab %}
 
 {% tab title="컨벤션" %}
-{% [Code Convention의 중요성](../column/topic/convention.md) %}
+{% [Code Convention의 중요성](../../column/topic/convention.md) %}
 {% endtab %}
 {% endtabs %}
