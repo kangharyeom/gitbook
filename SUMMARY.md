@@ -4,19 +4,21 @@
 
 ## Project
 * [Project](project/README.md)
-  * [Solo](project/solo/README.md)
-    * [Whistle](project/solo/whistle/README.md)
-      * [Whistle을 소개합니다!](project/solo/whistle/whistleIntroduction.md)
-  * [Company](project/company/README.md)
-    * [게시판 과제](project/company/board/README.md)
-      * [프로젝트 소개](project/company/board/boardOutLine.md)
+  * [Solo]()
+    * [Whistle](project/solo/whistle/whistleIntroduction.md)
+
+[//]: # (  * [Company]&#40;project/company/README.md&#41;)
+
+[//]: # (    * [게시판 과제]&#40;project/company/board/README.md&#41;)
+
+[//]: # (      * [프로젝트 소개]&#40;project/company/board/boardOutLine.md&#41;)
 
 ## Article
 * [Article Links](article/link.md)
 * [Haryeom's Column](column/column.md)
-  * [Topic](column/topic/README.md)
+  * [Topic]()
     * [Code Convention의 중요성](column/topic/convention.md)
-  * [Work Experience](column/work/README.md)
+  * [Work Experience]()
 
 [//]: # (  * [Today I Learn]&#40;column/til/README.md&#41;)
 [//]: # (  * [Topic]&#40;column/topic/README.md&#41;)
