@@ -1,6 +1,4 @@
-# Topic
-
-## 다양한 주제
+# 다양한 주제
 
 {% tabs %}
 {% tab title="First Tab" %}
