@@ -15,7 +15,7 @@
 
 ## Article
 * [Article Links](article/link.md)
-* [Haryeom's Column]()
+* [Haryeom's Column](column/column.md)
   * [Topic](column/topic/README.md)
     * [Code Convention의 중요성](column/topic/convention.md)
   * [Work Experience](column/topic)
