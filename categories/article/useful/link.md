@@ -1,17 +1,5 @@
 # Link
 
-## Spring
-
-{% tabs %}
-{% tab title="First Tab" %}
-
-{% endtab %}
-
-{% tab title="Batch" %}
-{% embed url="https://backtony.github.io/spring/2022-01-29-spring-batch-11/" %}
-{% endtab %}
-{% endtabs %}
-
 ## Database
 
 {% tabs %}
