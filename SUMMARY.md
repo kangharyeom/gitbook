@@ -3,9 +3,8 @@
 * [Welcome](README.md)
 
 ## Project
-* [Project](project/README.md)
-  * [Solo]()
-    * [Whistle](project/solo/whistle/whistleIntroduction.md)
+* [Solo Project](project/solo/README.md)
+  * [Whistle](project/solo/whistle/whistleIntroduction.md)
 
 [//]: # (  * [Company]&#40;project/company/README.md&#41;)
 
@@ -14,11 +13,11 @@
 [//]: # (      * [프로젝트 소개]&#40;project/company/board/boardOutLine.md&#41;)
 
 ## Article
-* [Article Links](article/link.md)
 * [Haryeom's Column](column/column.md)
-  * [Topic](column/topic/README.md)
-    * [Code Convention의 중요성](column/topic/convention.md)
-  * [Work Experience](column/topic)
+  * [Code Convention의 중요성](column/topic/convention.md)
+
+[//]: # (* [Work Experience]&#40;column/topic&#41;)
+* [Useful Articles](article/link.md)
 
 [//]: # (  * [Today I Learn]&#40;column/til/README.md&#41;)
 [//]: # (  * [Topic]&#40;column/topic/README.md&#41;)
