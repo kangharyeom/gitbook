@@ -1,36 +1,20 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome](home.md)
 
 ## Project
-* [Solo Project](project/solo/README.md)
-  * [Whistle](project/solo/whistle/whistleIntroduction.md)
-
-[//]: # (  * [Company]&#40;project/company/README.md&#41;)
-
-[//]: # (    * [게시판 과제]&#40;project/company/board/README.md&#41;)
-
-[//]: # (      * [프로젝트 소개]&#40;project/company/board/boardOutLine.md&#41;)
+* [Solo Project](categories/project/solo/soloProject.md)
+  * [Whistle](categories/project/solo/whistle/whistleIntroduction.md)
 
 ## Article
-* [Haryeom's Column](column/column.md)
-  * [Code Convention의 중요성](column/topic/convention.md)
+* [Haryeom's Column](categories/article/column/column.md)
+  * [Code Convention의 중요성](categories/article/column/convention.md)
 
-[//]: # (* [Work Experience]&#40;column/topic&#41;)
-* [Useful Articles](article/link.md)
-
-[//]: # (  * [Today I Learn]&#40;column/til/README.md&#41;)
-[//]: # (  * [Topic]&#40;column/topic/README.md&#41;)
+* [Useful Articles](categories/article/useful/link.md)
 
 ## Algorithm
-* [Algorithm](coding/algorithm/README.md)
-  * [DFS와 DFS](coding/algorithm/DFSandBFS.md)
-
-[//]: # (* [Coding Test]&#40;coding/question/README.md&#41;)
-
-[//]: # (## Work Experience)
-[//]: # (* [Work Experience]&#40;work/README.md&#41;)
-
+* [Algorithm](categories/coding/algorithm/algorithm.md)
+  * [DFS와 DFS](categories/coding/algorithm/DFSandBFS.md)
 
 ## Study
 [//]: # (* [Study]&#40;study/legacy/README.md&#41;)
@@ -55,5 +39,5 @@
 [//]: # (      * [Redis란 무엇일까?]&#40;study/legacy/cs/csMain.md&#41;)
 
 ## Public Documents
-* [공식 문서 모음](document/public/public.md)
-* [Open API 모음](document/openapi/openapi.md)
+* [공식 문서 모음](categories/documents/publicDocuments/publicDocuments)
+* [Open API 모음](categories/documents/openapi/openapi.md)
