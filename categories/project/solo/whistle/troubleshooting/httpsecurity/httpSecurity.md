@@ -1,4 +1,4 @@
-# Http Security 에러
+# Spring Boot Migration으로 인한 Spring Security 에러
 
 ## 트러블 슈팅 개요
 ![BFS](httpSecurity-001.png)

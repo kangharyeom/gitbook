@@ -5,6 +5,7 @@
 ## Project
 * [Solo Project](categories/project/solo/soloProject.md)
   * [Whistle](categories/project/solo/whistle/whistleIntroduction.md)
+    * [Spring Security Migration Error](categories/project/solo/whistle/troubleshooting/httpsecurity/httpSecurity.md) 
 
 ## Article
 * [Haryeom's Column](categories/article/column/column.md)
