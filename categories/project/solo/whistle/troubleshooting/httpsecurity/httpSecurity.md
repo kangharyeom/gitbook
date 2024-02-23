@@ -16,6 +16,8 @@ spring boot 2.7.14에서 spring boot 3.2.3로 프로젝트 마이그레이션 �
 Spring 3.1.0 이상의 환경에서는 Spring Security 6.1.0 버전을 따라야 하며 기존 방식이었던 메서드 체인 방식에서
 람다식을 통한 함수형으로 코딩해야합니다.
 
+<br/>
+
 ## 해결 방안
 ```java
 @Bean
@@ -43,6 +45,8 @@ Spring 3.1.0 이상의 환경에서는 Spring Security 6.1.0 버전을 따라야
 ```'frameOptions()' is deprecated since version 6.1 and marked for removal``` 에러는 Spring Security version 6.1이후
 deprecated 된 방식의 'frameOptions()'를 호출하였기 때문에 발생한 에러입니다. 즉, 더 이상 지원하지 않는 방식의 메소드를 호출하였기 때문에 발생하는 에러입니다.
 따라서 Security version 6.1이후 버전에서 지원하는 Lambda DSL 방식으로 Migration 한다면 해당 에러를 해결할 수 있습니다.
+
+<br/>
 
 ## AS-IS와 TO-BE 비교
 
@@ -93,8 +97,8 @@ AS-IS 코드는 메서드 체인 방식으로 ```메서드(). 메서드()``` 의
 <br/>
 
 ### TO-BE
-TO-BE 코드는 Spring Security 6.1 버전 이상에서 적용되는 방식으로 Lambda DSL 방식이다.
-Lambda DSL 방식은 and()를 사용하지 않아도 되며 들여쓰기로 인해 메소드 단위 코드 구성을 읽기 쉽다는 장점이 있다.
+TO-BE 코드는 Spring Security 6.1 버전 이상에서 적용되는 방식으로 Lambda DSL 방식입니다.
+Lambda DSL 방식은 and()를 사용하지 않아도 되며 들여쓰기로 인해 메소드 단위 코드 구성을 읽기 쉽다는 장점이 있습니다.
 ```java
 @Bean
     public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
