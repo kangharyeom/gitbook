@@ -2,7 +2,7 @@
 
 ## 트러블 슈팅 개요
 
-![BFS](httpSecurity-001.png)
+!['frameOptions()' is deprecated since version 6.1 and marked for removal 에러 발생](httpSecurity-001.png)
 
 <br/>
 spring boot 2.7.14에서 spring boot 3.2.3로 프로젝트 마이그레이션 진행 중 SecurityConfiguration에서
