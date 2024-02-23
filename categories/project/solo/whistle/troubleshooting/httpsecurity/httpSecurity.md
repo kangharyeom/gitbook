@@ -6,6 +6,7 @@
 
 <br/>
 spring boot 2.7.14에서 spring boot 3.2.3로 프로젝트 마이그레이션 진행 중 SecurityConfiguration에서
+
 ```
 'frameOptions()' is deprecated since version 6.1 and marked for removal 
 ```
