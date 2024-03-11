@@ -1,6 +1,6 @@
 # content type 'application/json;charset=utf-8' not supported
 
-본 프로젝트는 보안상의 이유료 소스코드를 제공할 수 없음을 알려드립니다.
+본 프로젝트는 보안상의 이유로 소스코드를 제공할 수 없음을 알려드립니다.
 
 ## 트러블 슈팅 개요
 
