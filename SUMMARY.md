@@ -6,8 +6,8 @@
 * [Solo Project](categories/project/solo/soloProject.md)
   * [Whistle](categories/project/solo/whistle/whistleIntroduction.md)
     * [Spring Security Migration Error](categories/project/solo/whistle/troubleshooting/httpsecurity/httpSecurity.md) 
-  * [Company](categories/project/company/company.md)
-    * [UTF-8 not supported Error](categories/project/company/troubleshooting/self_auth_web_if/content_type_not_found_error.md)
+* [Company](categories/project/company/company.md)
+  * [UTF-8 not supported Error](categories/project/company/troubleshooting/self_auth_web_if/content_type_not_found_error.md)
 ## Article
 * [Haryeom's Column](categories/article/column/column.md)
   * [Code Convention의 중요성](categories/article/column/convention.md)
