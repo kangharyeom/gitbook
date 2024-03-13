@@ -12,7 +12,7 @@
 때문에 발생한 에러입니다.
 
 저의 경우에는 JSON OBJECT를 property로 가지고 있는 'PostDto'를 컨트롤러 단에서 
-@RequestBody로 요청하였을 때 발생한 에러입니다.
+@RequestBody로 요청하였을 때 발생했습니다.
 
 ### PostDto
 ```java
@@ -31,10 +31,10 @@ public ResponseEntity post(@RequestBody PostDto postDto) {
 ```
 
 ## 해결방안
-@RequestBody로 JSON을 요청하려면 'jackson', 'GSON', 'SimpleJSON' 등 라이브러리의 도움을 받아야 합니다.
+```@RequestBody```로 JSON을 요청하려면 ```jackson```, ```GSON```, ```SimpleJSON``` 등 라이브러리의 도움을 받아야 합니다.
 
-저는 그 중 에서도 Jackson을 활용했는데요 Spring 3.0부터 Jackson과 관련된 API가 제공되어 라이브러리를 사용할 때
-클래스패스에 Jackson 라이브러리가 존재한다면, 자동적으로 MessageConverter가 등록되는 장점이 있기 때문에 
+저는 그 중 에서도 ```Jackson```을 활용했는데요 Spring 3.0부터 Jackson과 관련된 API가 제공되어 라이브러리를 사용할 때
+```클래스패스에 Jackson 라이브러리가 존재한다면, 자동적으로 MessageConverter가 등록되는 장점```이 있기 때문에 
 jackson을 활용하는 것이 더 좋을 것이라고 판단했습니다.
 
 Spring은 @ResponseBody를 사용하여 컨트롤러의 리턴 값을 HTTP 응답 본문으로 변환할 때 MessageConverter를 활용하며
